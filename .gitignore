@@ -1,0 +1,10 @@
+*.m~
+.DS_Store
+*DS_Store
+/.DS_Store
+.DS_Store?
+/frogs/frogs.mat
+*.avi
+*.avi~
+*.mov
+
